@@ -5,7 +5,7 @@
   <a href="mailto:nitinbhujwa@gmail.com">📧 Email</a> •
   <a href="https://in.linkedin.com/in/nitinbhujwa">🔗 LinkedIn</a> •
   <a href="https://sunno.42web.io" target="_blank">🎵 Sunno Music</a> •
-  <a href="https://dazzling-syrniki-44622d.netlify.app/" target="_blank">🌾 EasyFarms</a>
+  <a href="https://easyfarms.in/" target="_blank">🌾 EasyFarms</a>
 </p>
 
 ---
@@ -21,7 +21,7 @@ I code with purpose and a learner’s mindset, using minimal resources to build 
 
 ### 🛠️ Projects
 
-- **[🌾 EasyFarms](https://dazzling-syrniki-44622d.netlify.app/)**  
+- **[🌾 EasyFarms](https://easyfarms.in/)**  
   An all-in-one Agritech platform to help farmers with crop data, soil testing, disease detection, insurance, financial tools, and marketplace integration.  
   *Tech: HTML, CSS, JS, Python, AI APIs*
 
