@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nitin%20Bhujwa&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Full-stack%20%26%20AI%20Engineer&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nitin%20Bhujwa&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Full-stack%20and%20AI%20Engineer&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="header" />
 
 <a href="https://github.com/NitinBot001">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F59E0B&center=true&vCenter=true&width=760&height=45&lines=Full-stack+and+AI+Engineer;Building+for+Indian+agriculture+and+healthcare;React+%7C+TypeScript+%7C+FastAPI+%7C+Gemini;Open+to+a+paid+internship" alt="Typing SVG" />
